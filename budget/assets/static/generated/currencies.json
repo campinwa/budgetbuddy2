@@ -1,0 +1,16 @@
+{
+  "idr": {
+    "Currency": "Rupiah",
+    "Code": "IDR",
+    "Symbol": "Rp",
+    "CountryName": "Indonesia",
+    "CountryCode": "ID"
+  },
+  "usd": {
+    "Currency": "Dollar",
+    "Code": "USD",
+    "Symbol": "$",
+    "CountryName": "United States",
+    "CountryCode": "US"
+  }
+}

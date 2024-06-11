@@ -1,0 +1,16 @@
+[
+  {
+    "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/indonesia.png",
+    "CountryName": "Indonesia",
+    "Currency": "Rupiah",
+    "Code": "IDR",
+    "Symbol": "Rp"
+  },
+  {
+    "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/unitedstates.png",
+    "CountryName": "United States",
+    "Currency": "Dollar",
+    "Code": "USD",
+    "Symbol": "$"
+  }
+]
